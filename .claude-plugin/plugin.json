@@ -1,0 +1,10 @@
+{
+  "name": "common-paper-plugin",
+  "description": "Claude plugin for Common Paper",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mark Frantz",
+    "email": "mark@commonpaper.com"
+  },
+  "repository": "https://github.com/mwfrantz/common-paper-plugin"
+}
