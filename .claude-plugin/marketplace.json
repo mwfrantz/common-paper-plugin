@@ -1,0 +1,14 @@
+{
+  "name": "common-paper",
+  "owner": {
+    "name": "Mark Frantz",
+    "email": "mark@commonpaper.com"
+  },
+  "plugins": [
+    {
+      "name": "common-paper-plugin",
+      "source": "./",
+      "description": "Claude plugin for Common Paper"
+    }
+  ]
+}
